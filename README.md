@@ -1,7 +1,6 @@
 ## ■VSCode用
+
 ## ■chap10が存在した状態だと他のchapに影響を及ぼすことがあるので最初は無しの状態
-
-
 
 ## Getting Started
 
