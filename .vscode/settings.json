@@ -1,0 +1,17 @@
+{
+    "java.home": "C:/jdk-17",
+    "java.project.referencedLibraries": [
+        "WEB-INF/lib/*.jar",
+        "C:/Apache Software Foundation/Tomcat 10.0/lib/jsp-api.jar",
+        "C:/Apache Software Foundation/Tomcat 10.0/lib/servlet-api.jar",
+        "c:\\Apache Software Foundation\\Tomcat 10.1\\lib\\jsp-api.jar",
+        "c:\\Apache Software Foundation\\Tomcat 10.1\\lib\\servlet-api.jar"
+    ],
+    "files.encoding": "utf8",
+    "files.eol": "\n",
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.variables": {
+        "lang": "ja"
+    },
+    "java.project.outputPath": "WEB-INF/classes"
+}
